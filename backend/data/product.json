@@ -1,0 +1,107 @@
+[
+    {
+        "name":"Apple Macbook Air",
+        "price":"949.99",
+        "description":"....",
+        "ratings":4.9,
+        "images":[{
+            "public_id":"products/macbook_o2cj2k",
+            "url":"https://res.cloudinary.com/image/upload/v1.jpg"
+        }],
+        "category":"Laptop",
+        "seller":"Amazon",
+        "stock":0,
+        "numOfReviews":56,
+        "reviews":[]
+    },
+    {
+        "name":"Apple Macbook Air 1",
+        "price":"949.99",
+        "description":"....",
+        "ratings":4.9,
+        "images":[{
+            "public_id":"products/macbook_o2cj2k",
+            "url":"https://res.cloudinary.com/image/upload/v1.jpg"
+        }],
+        "category":"Laptop",
+        "seller":"Amazon",
+        "stock":0,
+        "numOfReviews":56,
+        "reviews":[]
+    },
+    {
+        "name":"Apple Macbook Air 2",
+        "price":"949.99",
+        "description":"....",
+        "ratings":4.9,
+        "images":[{
+            "public_id":"products/macbook_o2cj2k",
+            "url":"https://res.cloudinary.com/image/upload/v1.jpg"
+        }],
+        "category":"Laptop",
+        "seller":"Amazon",
+        "stock":0,
+        "numOfReviews":56,
+        "reviews":[]
+    },
+    {
+        "name":"Iphone 15",
+        "price":"60.86",
+        "description":"....",
+        "ratings":4.9,
+        "images":[{
+            "public_id":"products/iphone_o2cj2k",
+            "url":"https://res.cloudinary.com/image/upload/v1.jpg"
+        }],
+        "category":"Laptop",
+        "seller":"Amazon",
+        "stock":0,
+        "numOfReviews":56,
+        "reviews":[]
+    },
+    {
+        "name":"Iphone 14",
+        "price":"60.86",
+        "description":"....",
+        "ratings":4.9,
+        "images":[{
+            "public_id":"products/iphone_o2cj2k",
+            "url":"https://res.cloudinary.com/image/upload/v1.jpg"
+        }],
+        "category":"Laptop",
+        "seller":"Amazon",
+        "stock":0,
+        "numOfReviews":56,
+        "reviews":[]
+    },
+    {
+        "name":"Iphone 13",
+        "price":"60.86",
+        "description":"....",
+        "ratings":4.9,
+        "images":[{
+            "public_id":"products/iphone_o2cj2k",
+            "url":"https://res.cloudinary.com/image/upload/v1.jpg"
+        }],
+        "category":"Laptop",
+        "seller":"Amazon",
+        "stock":0,
+        "numOfReviews":56,
+        "reviews":[]
+    },
+    {
+        "name":"Iphone 12",
+        "price":"60.86",
+        "description":"....",
+        "ratings":4.9,
+        "images":[{
+            "public_id":"products/iphone_o2cj2k",
+            "url":"https://res.cloudinary.com/image/upload/v1.jpg"
+        }],
+        "category":"Laptop",
+        "seller":"Amazon",
+        "stock":0,
+        "numOfReviews":56,
+        "reviews":[]
+    }
+]
