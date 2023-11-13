@@ -8,9 +8,11 @@ app.use(express.json());
 app.use(cookieParser());
 
 //Import route
+const order = require('./routes/order')
 const products = require('./routes/product')
 const auth = require('./routes/auth')
 
+app.use('/api/v1', order)
 app.use('/api/v1', products)
 app.use('/api/v1', auth)    
 
